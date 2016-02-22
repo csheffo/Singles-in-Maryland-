@@ -1,0 +1,24 @@
+/*custom CSS*/
+
+.header {
+	font-family: 'Lucida Grande', sans-serif;
+	border-bottom: solid 2px #ffd500;
+	font-weight: 700;
+	letter-spacing: 1px;
+	margin: 1em 0 .5em 0;
+}
+
+.logo {
+	height: 15px;
+}
+
+.line {
+	border-bottom-style: solid;
+	border-bottom-color: #ffd500;
+	border-bottom-width: 2px; 
+	margin-bottom: 20px;
+}
+
+h3 {
+	text-align: center;
+	}
